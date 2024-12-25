@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "@solana/spl-token": "^0.4.9",
+    "@solana/web3.js": "^1.95.5",
+    "axios": "^1.7.8",
+    "base58": "^2.0.1",
+    "bs58": "^4.0.1",
+    "dotenv": "^16.4.5",
+    "luxon": "^3.5.0",
+    "table": "^6.8.2",
+    "xlsx": "^0.18.5"
+  }
+}
